@@ -1,0 +1,20 @@
+services:
+
+  api_swagger:
+    image: swaggerapi/swagger-ui
+    container_name: api_swagger_ui
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./public:/public
+    environment:
+      - SWAGGER_JSON=/public/openapi.yml
+
+  api_mock_app:
+    image: stoplight/prism:4
+    container_name: api_mock_app
+    command: 'mock -h 0.0.0.0 /docs/openapi/openapi.yml'
+    volumes:
+      - ./docs:/docs
+    ports:
+      - "4010:4010"
