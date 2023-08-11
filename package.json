@@ -1,5 +1,5 @@
 {
-  "name": "mock-templates",
+  "name": "api-mock-templates",
   "version": "1.0.0",
   "scripts": {
     "lint:docs:yml": "eslint docs/openapi --ext .yml --color",

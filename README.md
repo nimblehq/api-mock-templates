@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <strong>Mock Templates</strong>
+  <strong>API Mock Templates</strong>
 </p>
 
 ---
 
-Our optimized mock templates to create API mock servers.
+Our optimized API mock templates to create API mock servers.
 
 ## Getting Started
 
