@@ -26,7 +26,7 @@ Our optimized API mock templates to create API mock servers.
 1. Create a new repository for API Mock Server by pressing the `Use this template` button in this repository.
 2. Clone your repository.
 3. Configuration for fly.io and CD:
-  - Run `fly launch --dockerfile Dockerfile.mock` to create a new app on your `fly.io` account and answer these questions:
+  - Run `fly launch --dockerfile Dockerfile` to create a new app on your `fly.io` account and answer these questions:
     |Questions|Answers|
     |---|---|
     |Would you like to copy its configuration to the new app?|Yes (`y`)|
