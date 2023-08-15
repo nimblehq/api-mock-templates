@@ -1,12 +1,27 @@
-# Git Repository Template
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.nimblehq.co/logo/dark/logo-dark-text-320.png">
+      <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png">
+    </picture>
+</p>
 
-Project repository template to set up all public projects at [Nimble](https://nimblehq.co/)
+<p align="center">
+  <strong>API Mock Templates</strong>
+</p>
 
-## Usage
+---
 
-Clone the repository
+Our optimized API mock templates to create API mock servers.
 
-`git clone git@github.com:nimblehq/git-template.git`
+## Getting Started
+
+### Requirements
+
+`TBD`
+
+### Use the template
+
+`TBD`
 
 ## License
 
@@ -15,20 +30,16 @@ This project is Copyright (c) 2014 and onwards Nimble. It is free software and m
 [LICENSE]: /LICENSE
 
 ## About
-<a href="https://nimblehq.co/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.nimblehq.co/logo/dark/logo-dark-text-160.png">
-    <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-160.png">
-  </picture>
-</a>
+
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.nimblehq.co/logo/dark/logo-dark-text-160.png">
+      <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-160.png">
+</picture>
 
 This project is maintained and funded by Nimble.
 
-We ❤️ open source and do our part in sharing our work with the community!
+We love open source and do our part in sharing our work with the community!
 See [our other projects][community] or [hire our team][hire] to help build your product.
-
-Want to join? [Check out our Jobs][jobs]!
 
 [community]: https://github.com/nimblehq
 [hire]: https://nimblehq.co/
-[jobs]: https://jobs.nimblehq.co/
