@@ -11,4 +11,4 @@
 
 ---
 
-Our optimized API mock templates to create API mock servers.
+Our optimized API mock templates to create API mock servers based on OpenAPI specification.

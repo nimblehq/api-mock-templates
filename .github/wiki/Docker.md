@@ -1,6 +1,12 @@
-### Creating an API Mock Server with Prism
+In the `api-mock-templates` project, we use `Dockerfile` for deployment and `Docker Compose` for development.
 
-After having the OpenAPI specification for API documentation, developers can set up a mock server with Prism using Docker Compose.
+## Creating an API Mock Server with Prism
+
+To create an API Mock Server, the team is using [Prism](https://github.com/stoplightio/prism) to mock API responses based on the OpenAPI specification file.
+
+## Development with Docker Compose
+
+After having the OpenAPI specification for [[API Documentation]], developers can set up a mock server with Prism using Docker Compose.
 
 1. Create `docker-compose.dev.yml`
 
@@ -24,11 +30,9 @@ After having the OpenAPI specification for API documentation, developers can set
     docker compose -f docker-compose.dev.yml up
     ```
 
-### Deploying the Mock Server to fly.io
+## Deployment with Dockerfile
 
-[Fly.io](http://Fly.io) supports deploying the Mock Server via Dockerfile. Developers can deploy it by following these steps:
-
-1. Create `Dockerfile`
+To support deploying the Mock Server via Dockerfile. Developers can create a `Dockerfile`:
 
     ```docker
     FROM stoplight/prism:latest

@@ -1,11 +1,4 @@
-## Prerequisites
-
-- [OpenAPI](https://www.openapis.org/) to create API documentation.
-- A [fly.io](http://fly.io) account and its [CLI tool](https://fly.io/docs/hands-on/install-flyctl/) to deploy the API mock server.
-
-## Instructions
-
-### Creating an OpenAPI specification file
+## Creating an OpenAPI specification file
 
 To have an API Mock Server, it’s required to have an [OpenAPI](/development/documentation/openapi/) specification file (e.g., `openapi.yml`) to document API requests.
 
