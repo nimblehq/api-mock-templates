@@ -6,6 +6,7 @@
 ## Infrastructure
 
 - [[Hosting]]
+- [[Continuous Integration]]
 - [[Continuous Deployment]]
 
 ## Operations
