@@ -12,3 +12,7 @@
 ---
 
 Our optimized API mock templates to create API mock servers based on OpenAPI specification.
+
+## Prerequisites
+
+To have an API Mock Server, it’s required to have an [OpenAPI](https://nimblehq.co/compass/development/documentation/openapi) specification file (e.g., `openapi.yml`) to document API requests.

@@ -11,5 +11,5 @@
 
 ## Operations
 
-- [[API Documentation]]
-- [[Docker]]
+- [[Postman Export]]
+- [[Prism]]

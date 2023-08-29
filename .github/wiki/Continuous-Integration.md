@@ -33,5 +33,4 @@ jobs:
 
       - name: Run API docs linters
         run: yarn lint:docs:public
-
 ```

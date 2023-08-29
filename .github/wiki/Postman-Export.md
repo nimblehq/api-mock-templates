@@ -1,8 +1,4 @@
-## Creating an OpenAPI specification file
-
-To have an API Mock Server, it’s required to have an [OpenAPI](https://nimblehq.co/compass/development/documentation/openapi) specification file (e.g., `openapi.yml`) to document API requests.
-
-**OpenAPI specification file from Postman collection**
+## OpenAPI specification file from Postman collection
 
 In case the team has an existing Postman collection, developers can generate an OpenAPI specification file from the Postman collection and put it into the folder `docs/openapi` by following these steps:
 
