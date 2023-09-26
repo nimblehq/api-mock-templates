@@ -72,6 +72,9 @@ The applications are reachable at:
 - OpenAPI Swagger UI for visualizing the API documentation: http://localhost:8080
 - Mock server: http://localhost:4010
 
+> [!NOTE]  
+> Check more detail with the [wiki](https://github.com/nimblehq/api-mock-templates/wiki) page to understand the templates.
+
 ## License
 
 This project is Copyright (c) 2014 and onwards Nimble. It is free software and may be redistributed under the terms specified in the [LICENSE] file.
